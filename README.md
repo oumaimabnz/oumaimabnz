@@ -27,13 +27,13 @@ Python • JavaScript • TypeScript • Java
 React • Vue.js • Tailwind CSS • HTML • CSS  
 
 **Backend**  
-Node.js • Express • REST APIs  
+Node.js • Express • REST APIs • Spring Boot
 
 **Data & Machine Learning**  
 Pandas • NumPy • Matplotlib • Seaborn • Data Processing • Feature Engineering • Regression Models  
 
 **Databases**  
-MongoDB • PostgreSQL  
+MongoDB • PostgreSQL • MySQL 
 
 **Tools**  
 Git • GitHub • Vercel • Postman  
