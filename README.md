@@ -40,27 +40,6 @@ Git • GitHub • Vercel • Postman
 
 ---
 
-## Featured Projects
-
-### ASOS Data Processing & Analysis
-Python pipeline for cleaning, analyzing, and visualizing e-commerce data, including stockout detection and revenue impact estimation.
-
-### Python Data Processing Pipeline
-End-to-end data pipeline with preprocessing, regression modeling, and visualization of structured datasets.
-
-### AI Invoice Management App
-Full-stack application with API integration and data handling.
-
----
-
-##  What I'm currently focused on
-
-- Improving my skills in **data processing and machine learning with Python**
-- Building more **real-world, end-to-end systems**
-- Strengthening my understanding of **scalable software architecture and data-driven applications**
-
----
-
 ##  Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/oumaima-benaziza  
